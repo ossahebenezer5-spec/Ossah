@@ -1,2 +1,0 @@
-# Ossah
-Assignment 
